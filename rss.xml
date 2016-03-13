@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kungfubrotha]]></title>
         <description><![CDATA[kungfubrotha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kungfubrotha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 04:23:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 04:26:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kungfubrotha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Genesis post!!!  Gotta start somewhere.  Never another one like it.  Feels so groovy!</p>]]></description>
-            <link>undefinedgenesis-post-gotta-start-somewhere-never-another-one-l/index.html</link>
+            <link>https://thegrid.ai/kungfubrotha/genesis-post-gotta-start-somewhere-never-another-one-l/index.html</link>
             <guid isPermaLink="false">194833c8-8888-45e6-89db-4840fb5ae115</guid>
-            <pubDate>Sun, 13 Mar 2016 04:23:45 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 04:26:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
